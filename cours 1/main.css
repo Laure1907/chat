@@ -1,0 +1,29 @@
+/* style.css */
+body{
+  background: rgb(0,139,139);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Times New Roman;
+  color: black;
+  font-weight: lighter;
+  font-size: 40px;
+}
+h2 {
+  font-family: Abadi Extra Light;
+  color: orange;
+  font-weight: lighter;
+  font-size: 8px;
+}
+p {
+  color: orangered;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
