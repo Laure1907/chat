@@ -5,20 +5,22 @@ body{
   font-size: 25px;
   font-family: Helvetica;
 }
-h1{
-  font-family: Times New Roman;
+h1,h2{
+  font-family: Share Tech;
   color: black;
   font-weight: lighter;
   font-size: 40px;
+
 }
-h2 {
-  font-family: Abadi Extra Light;
-  color: orange;
-  font-weight: lighter;
-  font-size: 8px;
+
+h2{
+  font-size: 20px;
+
 }
+
 p {
   color: orangered;
+
 }
 a {
   color: yellow;
@@ -27,3 +29,10 @@ a:hover {
   text-decoration: none;
   color: purple;
 }
+img{
+  width:500px
+}
+.chat{
+  width: 1000px;
+}
+
